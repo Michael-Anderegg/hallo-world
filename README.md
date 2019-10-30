@@ -1,5 +1,4 @@
 # hallo-world
-trail
 Hey Guys
 
 I am new to github and looking forward to uploding the codes of my new projects.
